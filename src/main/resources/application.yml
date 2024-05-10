@@ -1,10 +1,10 @@
 spring:
   application:
-    name: config-server
+    name: config-service
   cloud:
     config:
       server:
         git:
-          uri: https://github.com/indiagator/code22-config-server-properties.git
+          uri: https://github.com/DvsPrajapati10/config-service-properties.git
 server:
   port: 8071

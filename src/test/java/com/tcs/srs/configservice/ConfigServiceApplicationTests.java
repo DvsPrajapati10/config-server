@@ -1,10 +1,10 @@
-package com.code22.configserverbom;
+package com.tcs.srs.configservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ConfigserverBomApplicationTests {
+class ConfigServiceApplicationTests {
 
     @Test
     void contextLoads() {
